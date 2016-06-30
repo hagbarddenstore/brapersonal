@@ -1,0 +1,80 @@
+.page-header
+{
+    border: none;
+}
+
+.page-header .slogan
+{
+    padding-top: 73px;
+}
+
+.navigation a.arbetssokande,
+.navigation a.arbetssokande:hover
+{
+    background-color: #6464FF;
+}
+
+.navigation a.arbetsgivare,
+.navigation a.arbetsgivare:hover
+{
+    background-color: #3333FF;
+}
+
+.navigation a.om,
+.navigation a.om:hover
+{
+    background-color: #000080;
+}
+
+.navigation a.for-kraft-varme-branschen,
+.navigation a.for-kraft-varme-branschen:hover
+{
+    background-color: #990000;
+}
+
+.navigation a.arbetssokande,
+.navigation a.arbetsgivare,
+.navigation a.om,
+.navigation a.for-kraft-varme-branschen
+{
+    color: #EEEEEE;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer .navigation
+{
+    margin: 10px 0;
+    padding: 5px 0;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
+
+.footer .navigation a
+{
+    color: #000000;
+    display: block;
+    text-align: center;
+}
+
+.footer .navigation a span
+{
+    color: rgb(2, 2, 254);
+}
+
+.footer p
+{
+    color: #969696;
+}
+
+a
+{
+    color: rgb(2, 2, 254);
+}
+
+h2
+{
+    border-bottom: 1px solid rgb(2, 2, 254);
+    padding-bottom: 5px;
+}

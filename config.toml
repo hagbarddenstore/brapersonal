@@ -1,0 +1,5 @@
+baseurl = "http://brapersonal.nu/"
+languageCode = "sv-se"
+title = "Brapersonal - Rekrytering & Placering - Liten personalbyrå - Stort engagemang!"
+disableRSS = true
+disableSitemap = true

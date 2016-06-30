@@ -1,0 +1,15 @@
+{{ partial "header.html" }}
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <h2>Lediga platser</h2>
+    </div>
+</div>
+{{ range .Data.Pages }}
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ .Content }}
+        </div>
+    </div>
+{{ end }}
+{{ partial "footer.html" }}
